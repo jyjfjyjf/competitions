@@ -1,0 +1,5 @@
+加dropout
+使用r-dropout
+使用ernie_grame模型
+参照问题匹配baseline设计一下模型
+想一想怎么设计多分类的后处理
